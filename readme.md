@@ -32,8 +32,8 @@ The image above shows a sample prediction for AMD stock:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stock-prediction-app.git
-cd stock-prediction-app
+https://github.com/kkarthik3/stock-predictor.git
+cd stock-predictor
 ```
 
 2. Install required packages:
